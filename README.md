@@ -76,4 +76,4 @@ Night accidents are fewer but deadlier
 
 - Triveni Sangama Saraswathi Edla. "Exploratory Data Analysis (EDA) of US Accidents and Prediction of Accident Severity in San Fransisco bay area"
 
-- Medium: Ronghui Zhou, Ph.D.""ow You Can Avoid Car Accident in 2020"
+- Medium: Ronghui Zhou, Ph.D.""How You Can Avoid Car Accident in 2020"
