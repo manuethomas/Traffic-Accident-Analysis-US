@@ -67,7 +67,7 @@ The primary goal of the project was to analyze traffic accident data in the US f
 - Traffic signals & crossings cut accident severity significantly
 - Interstate highways are hotspots for severe accidents
 - Accidents spread across cities rather than concentrated in specific areas
-Night accidents are fewer but deadlier
+- Night accidents are fewer but deadlier
 - Rain/snow conditions notably increase accident severity
 
 ## References
