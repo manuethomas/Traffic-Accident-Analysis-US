@@ -1,6 +1,6 @@
 <img src="images/banner.png"><br><br>
 
-***Click here to download detailed Report***
+[***Click here to download detailed Report***](https://github.com/manuethomas/traffic-demo/blob/main/Report/Analysis%20of%20Traffic%20Accidents%20in%20the%20US.pdf)
 
 ## Problem Statement
 
